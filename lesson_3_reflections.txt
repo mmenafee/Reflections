@@ -11,4 +11,7 @@ Describe the differences between forks, clones, and branches. When would you use
   moving a file from GitHub to the local repository or cloning between local repositories. Branches help structure where commits   are;they are labels. You make a new branch when you want to add an experimental feature or create a different version of a 
   program, like an easy or hard mode. 
   
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  You can work offline and compare and contrast changes that were made when you or someone else was online. 
+  
   
