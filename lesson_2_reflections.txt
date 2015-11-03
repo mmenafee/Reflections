@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+ 	A new git repository is created. In order to even have the version control function you
+ 	need a repository
